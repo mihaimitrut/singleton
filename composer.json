@@ -1,0 +1,9 @@
+{
+    "name": "mmitrut/singleton",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
